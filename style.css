@@ -1,12 +1,10 @@
 body{
-  background-color: rgb(253, 251, 251);
-
+  background-color:rgb(253, 251, 251);
 }
 
-header {
-  display: flex ;
-  justify-content: space-around;
-  background-color:rgb(253, 251, 251);
-  border-bottom: 05px solid rgb(0, 0, 0);
-  padding: 10px 10px;
+#cabecalho{
+  position: static;
+  border: 3px solid #263b07;
+  top: 0;
+  background-color: #8fb457;
 }
