@@ -8,3 +8,15 @@ body{
   top: 0;
   background-color: #8fb457;
 }
+#lado-direito{
+  float: right;
+  display: block;
+  width: 80%;
+}
+
+#lado-esquerdo{
+  float:left
+ display: block;
+ width: 20%;
+
+}
