@@ -12,14 +12,17 @@ body {
 }
 
 #lado-direito {
-  float: right;
+  float:right;
   display: block;
   width: 80%;
   padding: auto;
+  height: 5;
+  width: fit-content;
 }
 
 #lado-esquerdo {
   float: left;
   display: block;
-  width: 20%;
+  width: fit-content;
+  height: 5;
 }
