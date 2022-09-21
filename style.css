@@ -11,7 +11,7 @@ body {
   background-color: #8fb457;
 }
 
-#lado-direito {
+.lado-direito {
   float:right;
   display: block;
   width: 80%;
@@ -20,7 +20,7 @@ body {
   width: fit-content;
 }
 
-#lado-esquerdo {
+.lado-esquerdo {
   float: left;
   display: block;
   width: fit-content;
