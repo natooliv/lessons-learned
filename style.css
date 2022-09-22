@@ -6,13 +6,13 @@ body {
 
 #cabecalho {
   position: fixed;
-  border: 3px solid #aed86e;
+  border: 3px solid rgb(174, 216, 110)6;
   top: 0;
-  background-color: #8fb457;
+  background-color:rgb(174, 216, 110);
 }
 
 .lado-direito {
-  float:right;
+  float: right;
   display: block;
   width: 80%;
   padding: auto;
