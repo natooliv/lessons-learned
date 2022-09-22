@@ -6,9 +6,9 @@ body {
 
 #cabecalho {
   position: fixed;
-  border: 3px solid rgb(174, 216, 110)6;
+  border: 3px solid rgb(174, 216, 110);
   top: 0;
-  background-color:rgb(174, 216, 110);
+  background-color: rgb(174, 216, 110);
 }
 
 .lado-direito {
@@ -17,7 +17,6 @@ body {
   width: 80%;
   padding: auto;
   height: 5;
-  width: fit-content;
 }
 
 .lado-esquerdo {
