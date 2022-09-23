@@ -2,6 +2,9 @@ body {
   background-color: rgb(253, 251, 251);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 5px;
+  color: chocolate;
+  line-height: 20px;
+
 }
 
 #cabecalho {
@@ -9,6 +12,7 @@ body {
   border: 3px solid rgb(174, 216, 110);
   top: 0;
   background-color: rgb(174, 216, 110);
+  font-size: larger;
 }
 
 .lado-direito {
@@ -16,7 +20,12 @@ body {
   display: block;
   width: 80%;
   padding: auto;
-  height: 5;
+  height: 5px;
+  top: 642px;
+  left: 1300px;
+  position: absolute;
+  margin: 150px;
+
 }
 
 .lado-esquerdo {
@@ -24,4 +33,5 @@ body {
   display: block;
   width: fit-content;
   height: 5;
+  margin-right: 650px;
 }
